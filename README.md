@@ -1,6 +1,6 @@
-# ElasticSearchLyrics
+# Elasticsearch
 
-Ongoing project: Search of Lyrics stored in Elasticsearch
+Playing with Elasticsearch, Ongoing:
 
 Makes the following types of connections: 
 - Transport Client 
